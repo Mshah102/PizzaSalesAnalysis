@@ -19,6 +19,6 @@
  G. Bottom 5 Worst Sellers by Total Pizzas Sold
 
 
- SQL Queries: Refer PizzaSalesAnalysis.sql
+ SQL Queries: Refer SQLQuery_PizzaSalesAnalysis.sql
 
  Excel dashboard: Refer Dashboard.pdf
