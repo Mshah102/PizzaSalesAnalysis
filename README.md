@@ -17,3 +17,8 @@
  E. Total Pizzas Sold by Pizza Category
  F. Top 5 Best Sellers by Total Pizzas Sold
  G. Bottom 5 Worst Sellers by Total Pizzas Sold
+
+
+ SQL Queries: Refer PizzaSalesAnalysis.sql
+
+ Excel dashboard: Refer Dashboard.pdf
